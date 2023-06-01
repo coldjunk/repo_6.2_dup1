@@ -1,2 +1,2 @@
 adding new file f5.txt in br_2, C5
-C11 in br_y to f5.txt
+C12 Adding all new lines in f5.txt to resolve merge conflict 
